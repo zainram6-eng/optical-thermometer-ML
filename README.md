@@ -17,7 +17,7 @@ How can we measure temperature by exploiting the birefringence of adhesive tape 
 
 This project demonstrates that common adhesive tape — placed between crossed polarisers — acts as a temperature-dependent optical element. As temperature rises, thermal agitation relaxes the polymer chain orientation, reducing the birefringence index Δn. By measuring this optical response and modelling it with machine learning, a functional proof-of-concept contactless thermometer was built and validated.
 
-**TIPE 2025 · Classe Préparatoire MPSI/MP · Wave Physics · Polymer Optics**
+
 
 ---
 
@@ -87,4 +87,4 @@ optical-thermometer-ML/
 ## Author
 
 **Zainab Ramsis** · Engineering Student · IMT Atlantique  
-TIPE 2025 · Candidate No. 24775
+
